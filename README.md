@@ -13,3 +13,6 @@ http://laravel.com/docs/5.1/
 
 Dokumentasi Html Illuminate
 http://laravelcollective.com/docs/5.0/html
+
+Membuat halaman 404 error
+https://laracasts.com/discuss/channels/general-discussion/how-to-register-a-custom-404-in-laravel-5
