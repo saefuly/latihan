@@ -10,3 +10,6 @@ http://salatigadev.com/membuat-crud-di-laravel-5-dengan-restful/
 
 Dokumentasi laravel
 http://laravel.com/docs/5.1/
+
+Dokumentasi Html Illuminate
+http://laravelcollective.com/docs/5.0/html
